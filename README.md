@@ -1,5 +1,3 @@
-## Hi there 👋
-![Susmitha Rajendran](banner.png)
 ![Susmitha Rajendran](banner.png)
 
 # Hi, I'm Susmitha
