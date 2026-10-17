@@ -17,7 +17,7 @@ Full write-ups live on [Behance](https://behance.net/susmithrajendr).
 
 ## What I've shipped
 
-**[Notey](https://github.com/susmitharajendran/notey)** is an open-source floating desktop sticky note: borderless, draggable, distraction-free and local-first. I scoped it, designed the interactions, and managed it from first prototype to public release.
+**[Notey](https://github.com/susmitharajendran45/notey)** is an open-source floating desktop sticky note: borderless, draggable, distraction-free and local-first. I scoped it, designed the interactions, and managed it from first prototype to public release.
 
 ## Toolbox
 
@@ -36,7 +36,7 @@ Full write-ups live on [Behance](https://behance.net/susmithrajendr).
 ## Find me
 
 - Portfolio: [Behance](https://behance.net/susmithrajendr)
-- LinkedIn: [linkedin.com/in/susmitharajendran](https://linkedin.com/in/susmitharajendran)
+- LinkedIn: [linkedin.com/in/susmitharajendran](https://www.linkedin.com/in/susmitha-rajendran/)
 - Writing: [Medium](https://medium.com/@susmitha.rajendran45)
 - Based in Thalassery, Kerala, India
 
